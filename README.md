@@ -2,6 +2,8 @@
 
 This project, named "dummy-commands", is a modern interpretation of classic Linux commands. It aims to provide a new and innovative way to interact with command-line utilities, making them more accessible and easier to use in various programming environments.
 
+<img src="./public/preview-dcat.png" alt="dcat preview" style="border-radius: 8px;">
+
 ## Description
 
 "dummy-commands" is designed to reimplement traditional Linux commands with a focus on simplicity and modern coding standards. This project is perfect for developers looking for an alternative way to utilize command-line tools within their applications or for educational purposes to understand how these commands work under the hood.
