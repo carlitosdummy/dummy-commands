@@ -1,0 +1,25 @@
+{
+  "name": "dummy-commands",
+  "version": "1.0.0",
+  "description": "This project is a new and modern style of linux commands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs",
+    "dls": "node ./commands/ls.mjs",
+    "dcat": "node ./commands/cat.mjs"
+  },
+  "keywords": [
+    "commands",
+    "linux"
+  ],
+  "author": "Carlos H. --- Dummy",
+  "license": "ISC",
+  "dependencies": {
+    "cli-highlight": "^2.1.11",
+    "picocolors": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
